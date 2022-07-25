@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Models\Sipedi\Pegawai;
+namespace App\Models\sipedi\pegawai;
 
 use App\Models\Model;
 
